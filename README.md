@@ -86,7 +86,7 @@ Omniglot数据集中数据存放格式有三级：
 ### b、训练自己相似性比较的模型
 如果大家想要训练自己的数据集，可以将数据集按照如下格式进行摆放。    
 ```python
-- image_background
+- images_background
 	- character01
 		- 0709_01.png
 		- 0709_02.png
